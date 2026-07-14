@@ -1,6 +1,8 @@
 
 
 const Practice = () => {
+
+  
   return (
     <div>
         <h1>Practice</h1>
